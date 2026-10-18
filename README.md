@@ -63,8 +63,3 @@ cargo bench --bench attention_bench
 cargo bench --bench word2vec_bench
 cargo bench --bench perplexity_bench
 ```
-
-## Authors
-
-- **Srikar Yadlapati** ([@TheSilentIce](https://github.com/TheSilentIce)): Transformer, BM25 / RAG, BPE tokenizer, Word2Vec training, benchmarks
-- **Alex Liu** ([@LiuAlexR](https://github.com/LiuAlexR)): BPE tokenizer, Word2Vec, n-grams, project utilities
